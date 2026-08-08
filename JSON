@@ -1,0 +1,165 @@
+{
+  "project_name": "Education and Careers: From Aspiration to an Achievable Plan",
+
+  "problem_statement": "Women often receive generic course recommendations that ignore existing skills, career breaks, affordability, family responsibilities, confidence, accessibility and actual employment opportunities.",
+
+  "objective": "Create a GenAI career and learning navigator that helps a woman identify a realistic career destination, understand her skill gap and create an achievable plan that fits her circumstances.",
+
+  "persona": {
+    "selected_persona": "A final-year college student entering the workforce",
+    "description": "A final-year student who wants to start her career, understand her skills, identify suitable roles and prepare for employment."
+  },
+
+  "assessment": {
+    "goals": [
+      "Career aspiration",
+      "Target role",
+      "Short-term career goal",
+      "Long-term career goal"
+    ],
+    "skills": [
+      "Technical skills",
+      "Communication skills",
+      "Problem-solving skills",
+      "Teamwork skills",
+      "Existing knowledge"
+    ],
+    "experience": [
+      "Academic projects",
+      "Internships",
+      "Certifications",
+      "Volunteer experience",
+      "Previous work experience"
+    ],
+    "constraints": [
+      "Available learning time",
+      "Affordability",
+      "Family responsibilities",
+      "Accessibility",
+      "Confidence level",
+      "Location"
+    ]
+  },
+
+  "career_navigation": {
+    "target_role": "Identify a realistic career role based on skills, interests and circumstances.",
+    "skill_gap_analysis": {
+      "existing_skills": [
+        "Communication",
+        "Problem solving",
+        "Basic computer skills",
+        "Teamwork"
+      ],
+      "transferable_skills": [
+        "Communication",
+        "Time management",
+        "Team collaboration",
+        "Adaptability"
+      ],
+      "missing_skills": [
+        "Role-specific technical skills",
+        "Interview preparation",
+        "Resume building"
+      ]
+    }
+  },
+
+  "learning_plan": {
+    "duration": "60 days",
+    "phases": [
+      {
+        "phase": "Days 1-20",
+        "focus": "Build foundational skills"
+      },
+      {
+        "phase": "Days 21-40",
+        "focus": "Develop role-specific skills"
+      },
+      {
+        "phase": "Days 41-60",
+        "focus": "Portfolio, resume and interview preparation"
+      }
+    ]
+  },
+
+  "weekly_schedule": {
+    "available_hours_per_week": 10,
+    "schedule": {
+      "Monday": "1 hour - Learning",
+      "Tuesday": "1 hour - Practice",
+      "Wednesday": "1 hour - Learning",
+      "Thursday": "1 hour - Practice",
+      "Friday": "1 hour - Revision",
+      "Saturday": "3 hours - Project work",
+      "Sunday": "2 hours - Review and planning"
+    }
+  },
+
+  "recommendations": [
+    {
+      "type": "Course",
+      "reason": "Builds skills required for the target role.",
+      "cost": "Free or low cost",
+      "expected_outcome": "Improved job-ready skills"
+    },
+    {
+      "type": "Certification",
+      "reason": "Provides evidence of learning.",
+      "cost": "Depends on certification",
+      "expected_outcome": "Stronger resume"
+    },
+    {
+      "type": "Practice",
+      "reason": "Improves confidence and practical ability.",
+      "cost": "Free",
+      "expected_outcome": "Better interview performance"
+    }
+  ],
+
+  "proof_of_learning": {
+    "portfolio_project": "Create one practical project related to the target career role.",
+    "resume": "Create a role-focused resume highlighting transferable and technical skills.",
+    "interview_task": "Complete mock interview questions and a role-specific practical task.",
+    "career_action": "Apply for a suitable internship, entry-level job or career opportunity."
+  },
+
+  "recovery_plan": {
+    "if_user_falls_behind": [
+      "Reduce the weekly workload",
+      "Reschedule unfinished tasks",
+      "Prioritize important skills",
+      "Extend the learning timeline when necessary",
+      "Provide motivational guidance"
+    ]
+  },
+
+  "readiness_indicator": {
+    "criteria": [
+      "Skill completion",
+      "Project completion",
+      "Resume readiness",
+      "Interview readiness",
+      "Job application readiness"
+    ],
+    "score_range": "0-100",
+    "goal": "Reach at least 80% readiness before applying for target roles."
+  },
+
+  "success_moment": {
+    "starting_point": "I want to start my career, but I don't know where to begin.",
+    "outcomes": [
+      "Realistic target role",
+      "Skill-gap map",
+      "Achievable learning schedule",
+      "Tangible first career action",
+      "Evidence that can be shared with an employer"
+    ]
+  },
+
+  "assistant_behavior": {
+    "language": "Simple and easy-to-understand English",
+    "tone": "Friendly, supportive and encouraging",
+    "approach": "Personalized and practical",
+    "priority": "Realistic career growth based on the user's skills and circumstances"
+  }
+}
