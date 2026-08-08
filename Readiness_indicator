@@ -1,0 +1,8 @@
+"readiness_indicator": {
+    "criteria": [
+      "Skill completion",
+      "Project completion",
+      "Resume readiness",
+      "Interview readiness",
+      "Job application readiness"
+    ],
