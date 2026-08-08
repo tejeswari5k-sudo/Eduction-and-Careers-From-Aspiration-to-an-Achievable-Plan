@@ -1,0 +1,9 @@
+"recovery_plan": {
+    "if_user_falls_behind": [
+      "Reduce the weekly workload",
+      "Reschedule unfinished tasks",
+      "Prioritize important skills",
+      "Extend the learning timeline when necessary",
+      "Provide motivational guidance"
+    ]
+  },
