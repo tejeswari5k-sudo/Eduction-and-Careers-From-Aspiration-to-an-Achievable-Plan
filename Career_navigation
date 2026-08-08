@@ -1,0 +1,10 @@
+
+  "career_navigation": {
+    "target_role": "Identify a realistic career role based on skills, interests and circumstances.",
+    "skill_gap_analysis": {
+      "existing_skills": [
+        "Communication",
+        "Problem solving",
+        "Basic computer skills",
+        "Teamwork"
+      ],
