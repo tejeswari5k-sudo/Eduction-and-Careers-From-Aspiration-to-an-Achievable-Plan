@@ -1,0 +1,20 @@
+ "recommendations": [
+    {
+      "type": "Course",
+      "reason": "Builds skills required for the target role.",
+      "cost": "Free or low cost",
+      "expected_outcome": "Improved job-ready skills"
+    },
+    {
+      "type": "Certification",
+      "reason": "Provides evidence of learning.",
+      "cost": "Depends on certification",
+      "expected_outcome": "Stronger resume"
+    },
+    {
+      "type": "Practice",
+      "reason": "Improves confidence and practical ability.",
+      "cost": "Free",
+      "expected_outcome": "Better interview performance"
+    }
+  ],
