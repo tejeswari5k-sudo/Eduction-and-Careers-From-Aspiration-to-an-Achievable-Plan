@@ -1,0 +1,12 @@
+ "weekly_schedule": {
+    "available_hours_per_week": 10,
+    "schedule": {
+      "Monday": "1 hour - Learning",
+      "Tuesday": "1 hour - Practice",
+      "Wednesday": "1 hour - Learning",
+      "Thursday": "1 hour - Practice",
+      "Friday": "1 hour - Revision",
+      "Saturday": "3 hours - Project work",
+      "Sunday": "2 hours - Review and planning"
+    }
+  },
